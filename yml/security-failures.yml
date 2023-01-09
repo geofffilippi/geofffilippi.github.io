@@ -1,0 +1,67 @@
+---
+- id: 5ca153c2-4c5d-46b3-af6d-d52a69dfbea5
+  name: Democratic National Committee
+  type: email leak
+  notable-individuals-affected:
+  - Hillary Clinton
+  - Bernie Sanders
+  - Debbie Wasserman Schultz
+  - Amy Dacey
+  - Brad marshall
+  - Luis Miranda
+  consequences:
+  - Hillary Clinton lost election, unknown impact
+  - DNC exposed bias against Bernie Sanders
+  - Debbie Wasserman Schultz, resigned
+  - Amy Dacey, resigned
+  - Brad marshall, resigned
+  - Luis Miranda, resigned
+  organizations-affected:
+  - Democratic National Committee
+  data-exposed:
+  - sensitive email
+  - strategic information
+  - personal information about donors
+  - donors credit card numbers
+  - donors credit card numbers
+  date: '2017-06-22'
+  affected-users: 4000000000
+  attributed-to: 
+  - Guccifer 2.0 claimed responsibility for the hack
+  - Russian Intelligence Agency Hackers, blamed by US Intelligence
+  - WikiLeaks, published the emails
+- id: 
+  date: '2013-11-05'
+  name: WiFi WPA2 Vulnerability
+  type: protocol flaw
+- id: 78a73a8d-9a1b-4777-8b51-34c1bb249d16
+  date: '2017-10-16'
+  name: WiFi WPA2 Vulnerability
+  type: protocol flaw
+- id: 926ce030-8787-4956-81f6-b7088c5e46b9
+  name: spectra and meltdown
+  type: hardware vulnerability
+  companies-affected:
+  - all
+  data-exposed:
+  - unknown
+  date: '2018-01-01'
+  affected-users: 4000000000
+- id: 5730ec08-c302-402a-b441-68df36267cd6
+  type: leak
+  data-exposed:
+  - last 4 of credit card number
+  - username
+  - date of birth
+  date: '2018-04-03'
+  # TODO add videos
+  # TODO add web urls
+- id: 690fbb37-680c-4ffa-a3ca-28af28d51ded
+  type: hack
+  companies-affected:
+  - Sacks
+  - Lord and Taylor
+  data-exposed:
+  - credit card info
+  date: '2018-04-01'
+  affected-users: 5000000
