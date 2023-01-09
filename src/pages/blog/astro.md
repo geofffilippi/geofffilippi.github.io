@@ -1,0 +1,34 @@
+---
+layout: '../../layouts/Post.astro'
+title: astro
+image: /images/astro
+publishedAt: "2023-01-07"
+category: 'frameworks'
+---
+
+## [`Astro`](https://astro.build)
+<blockquote>Astro is an all-in-one web framework for building fast, content-focused websites.</blockquote>
+
+## [Getting Started with a Blog Template](https://github.com/littlesticks/simple-blog-astro)
+
+```bash
+git clone git@github.com:geofffilippi/simple-blog-astro.git
+npm i && npm start
+```
+### Run Development Server
+```bash
+npm start
+```
+
+### Build
+```bash
+npm run build 
+```
+
+### Run Build Preview Server
+```bash
+npm start preview
+```
+
+### [Deploy to Gitlab Pages](https://docs.astro.build/en/guides/deploy/github/)
+
