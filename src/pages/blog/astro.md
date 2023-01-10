@@ -30,5 +30,6 @@ npm run build
 npm start preview
 ```
 
-### [Deploy to Gitlab Pages](https://docs.astro.build/en/guides/deploy/github/)
+### [Deploy to GitHub Pages](https://docs.astro.build/en/guides/deploy/github/)
 
+### [Deploy to GitLab Pages](https://docs.astro.build/en/guides/deploy/gitlab/)
