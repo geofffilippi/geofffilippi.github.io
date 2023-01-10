@@ -10,6 +10,11 @@ export const socials = [
     icon: 'mdi:github'
   },
   {
+    name: 'GitLab',
+    url: 'https://gitlab.com/geofffilippi',
+    icon: 'mdi:gitlab'
+  },
+  {
     name: 'YouTube',
     url: 'https://youtube.com/geofffilippi',
     icon: 'mdi:youtube'
