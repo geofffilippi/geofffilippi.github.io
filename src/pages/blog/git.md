@@ -93,3 +93,14 @@ git push
 ```bash
 git push --set-upstream origin 1-fix-json5
 ```
+
+### Revert Uncommitted Changes in a Branch
+```bash
+git reset –hard
+```
+
+### Revert Ignored Changes in a Branch
+```bash
+git clean -fxd
+```
+
