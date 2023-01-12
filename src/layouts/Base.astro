@@ -12,8 +12,17 @@ export interface Props {
 const { seo } = Astro.props;
 ---
 
-<html lang="en" amp>
+<html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JEYV87WJ2X"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JEYV87WJ2X');
+    </script>
+
     <BaseHead {...seo} />
     <ThemeProvider/>
     <!-- This is and experimental global fade in animation that is being worked on, enable at your own risk of some jank -->
