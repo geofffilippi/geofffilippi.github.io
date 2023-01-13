@@ -31,7 +31,7 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" /><style
+     inkscape:current-layer="layer1" /><style
      id="style2">
 		path {
 			stroke: black;
@@ -46,7 +46,7 @@
      id="layer1"
      inkscape:label="background"
      style="display:inline"><rect
-       style="display:inline;fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke-width:96"
+       style="display:inline;fill:#aaaaaa;fill-opacity:1;fill-rule:evenodd;stroke-width:96"
        id="rect484"
        width="256.27615"
        height="255.17152"
