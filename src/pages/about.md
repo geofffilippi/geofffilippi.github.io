@@ -7,7 +7,7 @@ category: 'about'
 
 #
 
-![](images/geofffilippi.webp)
+![](/images/geofffilippi.webp)
 
 Geoff is a Cloud and Security Architect.
 
