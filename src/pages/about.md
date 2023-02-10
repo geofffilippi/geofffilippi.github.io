@@ -7,6 +7,8 @@ category: 'about'
 
 #
 
+![](images/geofffilippi.webp)
+
 Geoff is a Cloud and Security Architect.
 
 Recently he was a Senior Technical Account Manager (TAM) at Amazon (AWS). Prior to that he was a Principal Security Architect at DISH Network. He also worked as a Senior Architect at DISH, serving a large group of developers implementing microservices. Prior to his work at DISH, he was an Application Architect at Oildex, an oil and gas data service company. He also spent 12 years at Time Warner Cable, where he was a Senior Engineer. At TWC, he lead the team that built the video streaming web application, TWCTV.
