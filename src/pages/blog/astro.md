@@ -7,7 +7,7 @@ category: 'frameworks'
 ---
 
 ## [`Astro`](https://astro.build)
-<blockquote>Astro is an all-in-one web framework for building fast, content-focused websites.</blockquote>
+> Astro is an all-in-one web framework for building fast, content-focused websites.
 
 ## [Getting Started with a Blog Template](https://github.com/littlesticks/simple-blog-astro)
 
@@ -31,5 +31,9 @@ npm start preview
 ```
 
 ### [Deploy to GitHub Pages](https://docs.astro.build/en/guides/deploy/github/)
+
+* Make sure that the branch names match
+  * `master` vs `main`
+
 
 ### [Deploy to GitLab Pages](https://docs.astro.build/en/guides/deploy/gitlab/)
