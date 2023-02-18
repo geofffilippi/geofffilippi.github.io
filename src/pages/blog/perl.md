@@ -165,3 +165,14 @@ usleep(50000);
 
 [See also](https://stackoverflow.com/questions/896904/how-do-i-sleep-for-a-millisecond-in-perl)
 
+### Modules
+
+#### [`Net::DNS`](https://metacpan.org/pod/Net::DNS)
+[Examples](https://metacpan.org/pod/Net::DNS#EXAMPLES)
+
+### [`cpan`](http://www.cpan.org/modules/INSTALL.html)
+
+Install cpanminus
+```bash
+brew install cpanminus
+```
