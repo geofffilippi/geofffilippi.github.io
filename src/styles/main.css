@@ -35,6 +35,7 @@
 
   /* Container */
   --container-padding: 0 1rem;
+  /* TODO - would like wider in laptop mode, but still want centered */
   --container-max-width: 860px;
 
   --header-height: 76px;
@@ -167,6 +168,9 @@ li {
 }
 
 pre {
+  /* TODO do not wrap, but keep everything else responsive */
+  white-space: pre-wrap;
+  word-break: break-all;
   position: relative;
   max-width: 100%;
   overflow-x: auto;
@@ -178,6 +182,13 @@ pre copy-code-button {
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
+}
+
+blockquote {
+  margin: 1rem;
+  padding: 1rem;
+  background: #ddd;
+  border-left:0.3rem solid #bbb;
 }
 
 /* Gloal fade in animation */
