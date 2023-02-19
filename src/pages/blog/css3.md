@@ -7,7 +7,7 @@ category: 'web'
 ---
 
 ## [`css3`](https://www.w3.org/Style/CSS/current-work.en.html)
-<blockquote>Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.</blockquote>
+> Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.
 
 ### `clamp`
 Specify a range of values `min, computed value, max`
@@ -69,3 +69,32 @@ Define Variables
   --ease-out-soft: cubic-bezier(0.28, 0, 0.49, 1);
 }
 ```
+
+### [`white-space`](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
+Control how elements wrap. `pre-wrap` breaks lines at newlines.
+
+```css
+white-space: pre-wrap;
+```
+
+### [`word-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break)
+Control where lines break. `break-all` will break on any character. This is helpful for long words.
+
+```css
+word-break: break-all;
+```
+
+### `background`
+Set background color of an element
+
+```css
+background: #ddd;
+```
+
+### `border-left`
+Set a left border
+
+```css
+border-left:0.3rem solid #bbb;
+```
+

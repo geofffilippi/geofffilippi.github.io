@@ -36,7 +36,7 @@
   /* Container */
   --container-padding: 0 1rem;
   /* TODO - would like wider in laptop mode, but still want centered */
-  --container-max-width: 860px;
+  --container-max-width: 90%;
 
   --header-height: 76px;
 
@@ -110,8 +110,6 @@ body {
   line-height: 1.5;
   max-width: var(--body-max-width);
   position: relative;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
 }
 
 .flow > * + * {
@@ -168,9 +166,6 @@ li {
 }
 
 pre {
-  /* TODO do not wrap, but keep everything else responsive */
-  white-space: pre-wrap;
-  word-break: break-all;
   position: relative;
   max-width: 100%;
   overflow-x: auto;
