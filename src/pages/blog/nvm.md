@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: nvm
 image: /images/nvm
 publishedAt: "2023-01-06"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`nvm`](https://github.com/nvm-sh/nvm)

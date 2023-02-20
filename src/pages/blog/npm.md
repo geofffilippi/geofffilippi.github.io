@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: npm
 image: /images/npm
 publishedAt: "2023-01-06"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`npm`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)

@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: Perl
 image: /images/perl
 publishedAt: "2023-02-08"
-category: 'languages'
+category: 'Languages'
 ---
 
 ## [`Perl`](https://www.perl.org)

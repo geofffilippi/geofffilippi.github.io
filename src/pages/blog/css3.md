@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: css3
 image: /images/css3
 publishedAt: "2023-01-07"
-category: 'web'
+category: 'Web'
 ---
 
 ## [`css3`](https://www.w3.org/Style/CSS/current-work.en.html)

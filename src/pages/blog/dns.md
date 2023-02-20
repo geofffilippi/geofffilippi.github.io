@@ -3,11 +3,11 @@ layout: '../../layouts/Post.astro'
 title: dns
 image: /images/dns
 publishedAt: "2023-02-10"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`dns`](https://en.wikipedia.org/wiki/Domain_Name_System)
-<blockquote>The Domain Name System (DNS) is a hierarchical and distributed naming system for computers, services, and other resources in the Internet or other Internet Protocol (IP) networks. It associates various information with domain names assigned to each of the associated entities.</blockquote>
+> The Domain Name System (DNS) is a hierarchical and distributed naming system for computers, services, and other resources in the Internet or other Internet Protocol (IP) networks. It associates various information with domain names assigned to each of the associated entities.
 
 ### `nslookup` 
 Non-interactive

@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: Presentations
 image: /images/presentations
 publishedAt: 2023-01-05
-category: 'presentations'
+category: 'Presentations'
 ---
 
 ## [Spring 5 Project Reactor](https://geofffilippi.github.io/pres-spring5-reactor)

@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: Developer Guides
 image: /images/freelance
 publishedAt: "2023-01-07"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## Frameworks

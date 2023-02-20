@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: astro
 image: /images/astro
 publishedAt: "2023-01-07"
-category: 'frameworks'
+category: 'Frameworks'
 ---
 
 ## [`Astro`](https://astro.build)

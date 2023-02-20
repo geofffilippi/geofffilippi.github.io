@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: sdkman
 image: /images/sdkman
 publishedAt: "2023-01-05"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`sdkman`](https://sdkman.io)

@@ -3,11 +3,11 @@ layout: '../../layouts/Post.astro'
 title: git
 image: /images/git
 publishedAt: "2023-01-07"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`git`](https://git-scm.com)
-<blockquote>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</blockquote>
+> Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 ### Install `git`
 ```bash
@@ -103,4 +103,3 @@ git reset –hard
 ```bash
 git clean -fxd
 ```
-

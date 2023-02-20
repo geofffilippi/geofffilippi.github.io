@@ -2,7 +2,7 @@
 layout: '../layouts/Post.astro'
 title: Geoff Filippi
 publishedAt: "2023-01-05"
-category: 'about'
+category: 'About'
 ---
 
 #

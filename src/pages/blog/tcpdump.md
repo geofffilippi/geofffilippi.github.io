@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 title: tcpdump
 image: /images/tcpdump
 publishedAt: "2023-02-17"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`tcpdump`](https://www.tcpdump.org)

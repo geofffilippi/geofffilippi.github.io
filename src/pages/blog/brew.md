@@ -3,11 +3,11 @@ layout: '../../layouts/Post.astro'
 title: brew
 image: /images/brew
 publishedAt: "2023-01-07"
-category: 'tools'
+category: 'Tools'
 ---
 
 ## [`brew`](https://brew.sh)
-<blockquote>The Missing Package Manager for macOS (or Linux)</blockquote>
+> The Missing Package Manager for macOS (or Linux)
 
 ### Install the Latest Version of `brew`
 ```bash
