@@ -10,10 +10,23 @@ category: 'Tools'
 
 > The Metasploit Framework is a Ruby-based, modular penetration testing platform that enables you to write, test, and execute exploit code.
 
-### [Pull Docker Image](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
+### Run with Docker
+#### [Pull Docker Image](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 
 ```bash
 docker pull metasploitframework/metasploit-framework
+```
+
+#### Open a Shell
+
+```
+docker run -it d45cf5ec473b /bin/bash
+```
+
+### Run `msfconsole`
+
+```
+./msfconsole
 ```
 
 ### [`help`](https://www.stationx.net/metasploit-commands/)
@@ -24,4 +37,10 @@ help
 
 ```bash
 ?
+```
+
+### List Exploits
+
+```
+show exploits
 ```
